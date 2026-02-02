@@ -1,0 +1,26 @@
+@startuml
+
+skinparam linetype polyline
+skinparam linetype ortho
+
+
+entity pets {
+    * id : uuid
+    --
+    * created : timestamptz
+    name : varchar(255)
+    updated : timestamptz
+}
+
+entity owners {
+    * id : uuid
+    --
+    * name : varchar(255)
+    * document : varchar(255)
+    * created : timestamptz
+    updated : timestamptz
+}
+
+pets }|..|| owners
+
+@enduml
