@@ -1,0 +1,73 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="Django" />
+          <option value="asgiref" />
+          <option value="autopep8" />
+          <option value="dj-database-url" />
+          <option value="gunicorn" />
+          <option value="pycodestyle" />
+          <option value="pytz" />
+          <option value="toml" />
+          <option value="whitenoise" />
+          <option value="django-environ" />
+          <option value="psycopg2" />
+          <option value="anyio" />
+          <option value="asn1crypto" />
+          <option value="black" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="chardet" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="cryptography" />
+          <option value="distlib" />
+          <option value="django-admin-adminlte" />
+          <option value="django-background-task" />
+          <option value="django-cors-headers" />
+          <option value="djangorestframework" />
+          <option value="djangorestframework-simplejwt" />
+          <option value="djongo" />
+          <option value="et-xmlfile" />
+          <option value="filelock" />
+          <option value="future" />
+          <option value="greenlet" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="idna" />
+          <option value="itsdangerous" />
+          <option value="mypy-extensions" />
+          <option value="openpyxl" />
+          <option value="packaging" />
+          <option value="pathspec" />
+          <option value="pg8000" />
+          <option value="platformdirs" />
+          <option value="pycparser" />
+          <option value="PyJWT" />
+          <option value="pymongo" />
+          <option value="pyodbc" />
+          <option value="python-dateutil" />
+          <option value="python-dotenv" />
+          <option value="requests" />
+          <option value="rest-framework-simplejwt" />
+          <option value="schedule" />
+          <option value="scramp" />
+          <option value="six" />
+          <option value="sniffio" />
+          <option value="SQLAlchemy" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+          <option value="virtualenv" />
+          <option value="wfastcgi" />
+          <option value="xmltodict" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

@@ -2,10 +2,10 @@ name: CI pipeline
 on:
   push:
     branches:
-      - main
+      - feature/dac
   pull_request:
     branches:
-      - main
+      - feature/dac
 jobs:
   vale:
     name: Docs checker
